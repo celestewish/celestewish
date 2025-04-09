@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celestewish
 - 👀 I’m interested in game design and development!
-- 🌱 I’m currently learning game development, data structures, and software engineering.
+- 🌱 I’m currently learning game development, alg analysis, and software QA.
 - 📫 How to reach me: email: laurenrousell@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to ride horses.
