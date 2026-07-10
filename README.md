@@ -40,6 +40,27 @@ A project where my role is centered on:
 - Quality assurance
 - Some environmental design
 
+#### Inferno
+A **free, all-in-one game development task board** designed to unify the scattered tools and platforms game dev teams normally juggle into one single space. Designed and built entirely by me.
+
+**Core Features:**
+- Shared studio spaces with multiple projects
+- Kanban boards, tasks, due dates, and calendar view
+- Reports and team system with board-specific permissions
+- Customization, profiles, and settings
+- Mobile support and public landing page
+- Discord-style message board for team communication
+- Google Docs–style organized file system
+- GitHub integration for connecting a game's repos
+- Voice chat and meeting notes for team meetings
+
+**Tech Stack:**
+- Frontend: React + Vite
+- Backend & Auth: Supabase
+- Email: Resend
+- Hosting: IONOS Deploy Now (inferno-taskboard.com)
+- Uptime Monitoring: BetterStack
+
 #### Spiced
 An **early-stage agentic AI partner for game developers**, designed especially for **indie and solo developers**.
 Its goal is to help developers move faster by handling lower-level support work so they can stay focused on higher-level creative and technical decisions.
