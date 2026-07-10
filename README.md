@@ -29,16 +29,20 @@ An **educational game** that teaches kids about **HLH** through strategic arcade
 - Manage the game’s public-facing pages
 
 #### Fish Game
-A current game project where I’m focused primarily on:
+A **hyper-casual mobile roguelite** about becoming the best fisherman.
+Each run, you head out to fish, earn cash from your catches, and use it to buy better equipment for your tackle box to improve future runs. Catching fish is done through mini-games, and the game features a wide variety of fish with different rarities to collect, spread across multiple distinct biomes to explore.
 - Backend development
 - UI implementation
 - UI design support
 
 #### House Watches
-A project where my role is centered on:
+A **strategy-horror game** told in two parts, following a boy and his dog, Zolo.
+Set in Mexico, the story follows a boy raised on tales of monster-like creatures called **duendes**. One night, the duendes come and take Zolo, his exquilo (companion dog), setting off a two-perspective journey to reunite them.
+- **Boy's sections:** Stealth and puzzle-focused gameplay, searching the house for key items before escaping into the woods to find the duendes' den
+- **Dog's sections:** Exploration and strategy-focused gameplay, escaping the duendes' lair and navigating the forest to reunite with the boy
 - Mechanical programming
 - Quality assurance
-- Some environmental design
+- Environmental design (partial)
 
 #### Inferno
 A **free, all-in-one game development task board** designed to unify the scattered tools and platforms game dev teams normally juggle into one single space. Designed and built entirely by me.
