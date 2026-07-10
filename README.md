@@ -89,7 +89,7 @@ A **free, all-in-one game development task board** designed to unify the scatter
 - Frontend: React + Vite
 - Backend & Auth: Supabase
 - Email: Resend
-- Hosting: IONOS Deploy Now (inferno-taskboard.com)
+- Hosting: IONOS Deploy Now (infernotaskboard.com)
 - Uptime Monitoring: BetterStack
 
 ---
