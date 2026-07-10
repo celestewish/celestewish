@@ -95,7 +95,11 @@ A **free, all-in-one game development task board** designed to unify the scatter
 ---
 
 ### 🏢 Rousell Technologies LLC
-I'm also developing work under **Rousell Technologies LLC**, a venture connected to my broader goals in **software development**, **game development**, and intelligent tools that support creators and interactive experiences.
+**Rousell Technologies LLC** is my independent software and game publishing label, founded solo shortly after graduating college to bring my own projects to market under my own brand.
+
+As the sole founder and operator, I handle everything from product development to publishing strategy, building **software, games, and developer tools** aimed at supporting creators, powering interactive experiences, and solving real problems for the people who use them. The tech stack varies project to project — I stay flexible and pick whatever tools best fit the problem, using that range to explore what the market actually needs and where I can add the most value.
+
+Running Rousell Technologies from the ground up has meant developing  as an engineer, designer, and entrepreneur — owning the full lifecycle of an idea from concept to shipped product.
 
 ---
 
