@@ -34,7 +34,7 @@ An **educational game** that teaches kids about **HLH (Hemophagocytic Lymphohist
 - Head of public outreach and community presence
 - Manage the game's public-facing pages
 
-#### Fish Game
+#### fishGame
 A **hyper-casual mobile roguelite** about becoming the best fisherman. Each run, you head out to fish, earn cash from your catches, and use it to buy better equipment for your tackle box to improve future runs. Catching fish is done through mini-games, and the game features a wide variety of fish with different rarities to collect, spread across multiple distinct biomes to explore.
 - Built with **Unity / Unity API**
 
@@ -43,8 +43,8 @@ A **hyper-casual mobile roguelite** about becoming the best fisherman. Each run,
 - UI implementation
 - UI design support
 
-#### House Watches
-A **strategy-horror game** told in two parts, following a boy and his dog, Zolo. Set in Mexico, the story follows a boy raised on tales of monster-like creatures called **duendes**. One night, the duendes come and take Zolo, his exquilo (companion dog), setting off a two-perspective journey to reunite them.
+#### The House Watches
+A **strategy-horror game** told in two parts, following a boy and his dog, Xolo. Set in Mexico, the story follows a boy raised on tales of monster-like creatures called **duendes**. One night, the duendes come and take Xolo setting off a two-perspective journey to reunite them.
 - **Boy's sections:** Stealth and puzzle-focused gameplay, searching the house for key items before escaping into the woods to find the duendes' den
 - **Dog's sections:** Exploration and strategy-focused gameplay, escaping the duendes' lair and navigating the forest to reunite with the boy
 - Built with **Unity / Unity API**
